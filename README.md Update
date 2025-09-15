@@ -1,0 +1,9 @@
+# ZooApp  
+Ett enkelt övningsproekt i C# för at träna på: - proektstruktur (mappar och klasser)
+- arv ("Dog : Animal , Cat ,Birg
+- listor och iteration (`List<Animal>´)
+- arbete med Git och GitHub
+- Skapar djur med egenskaper: namn; ålder, färg och vikt
+- Varje djur har en metod `Speak()` för sitt ljud
+- Visar information med `GerInfo()` och loopar igenom en lista med djur
+  
